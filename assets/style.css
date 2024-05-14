@@ -1,0 +1,8 @@
+.hero {
+    background-image: url('https://example.com/hero-image.jpg'); /* Replace with your actual image URL */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+}
